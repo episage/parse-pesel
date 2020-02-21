@@ -1,0 +1,9 @@
+{
+  "name": "parse-pesel",
+  "version": "1.0.3",
+  "description": "Parser polskiego nr PESEL",
+  "main": "index.js",
+  "author": "Tomasz Ciborski",
+  "license": "MIT",
+  "private": false
+}
